@@ -1,0 +1,12 @@
+version: "3"
+services:
+  air-nz-spider:
+    image: peavers/air-nz-spider:latest
+    container_name: air-nz-spider
+    restart: unless-stopped
+    environment:
+      - SPIDER_NOTIFICATION_SLACK_WEBHOOK=""
+    logging:
+      options:
+        max-size: "2m"
+        max-file: "5"

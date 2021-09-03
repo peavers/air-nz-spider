@@ -1,0 +1,2 @@
+spider:
+  driver: "/usr/local/bin/chromedriver"

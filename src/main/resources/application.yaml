@@ -1,0 +1,2 @@
+spider:
+  driver: "src/main/resources/mac/chromedriver"
