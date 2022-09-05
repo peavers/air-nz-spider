@@ -32,7 +32,7 @@ dependencies {
 
     // Utils
     implementation 'com.squareup.okhttp3:okhttp:4.10.0'
-    implementation 'com.fasterxml.jackson.core:jackson-databind:2.13.3'
+    implementation 'com.fasterxml.jackson.core:jackson-databind:2.13.4'
     implementation 'commons-io:commons-io:2.11.0'
 
     // Dev and Misc
