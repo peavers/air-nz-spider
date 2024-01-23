@@ -26,7 +26,7 @@ dependencies {
     implementation 'org.springframework.boot:spring-boot-starter'
 
     // Parsing
-    implementation group: 'org.seleniumhq.selenium', name: 'selenium-java', version: '4.16.1'
+    implementation group: 'org.seleniumhq.selenium', name: 'selenium-java', version: '4.17.0'
     implementation group: 'org.seleniumhq.selenium', name: 'selenium-chrome-driver', version: '4.17.0'
     implementation 'org.jsoup:jsoup:1.17.2'
 
