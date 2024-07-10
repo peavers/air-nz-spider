@@ -28,7 +28,7 @@ dependencies {
     // Parsing
     implementation group: 'org.seleniumhq.selenium', name: 'selenium-java', version: '4.22.0'
     implementation group: 'org.seleniumhq.selenium', name: 'selenium-chrome-driver', version: '4.22.0'
-    implementation 'org.jsoup:jsoup:1.17.2'
+    implementation 'org.jsoup:jsoup:1.18.1'
 
     // Utils
     implementation 'com.squareup.okhttp3:okhttp:4.12.0'
